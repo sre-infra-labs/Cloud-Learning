@@ -1,6 +1,75 @@
 # Cloud-Learning
 In this repo, I share my learning regarding cloud providers
 
+# AWS Topics
+- [ ] [IAM - Identity & Access Management](https://youtu.be/CH1EhkBzkyo)
+- [ ] [VPC - Virtual Private Cloud](https://youtu.be/ZMJV5AIfVBE)
+- [ ] [EC2 - Elastic Compute Cloud](https://youtu.be/Ens8asZLomk)
+- [ ] [EBS - Elastic Block Storage](https://youtu.be/zz53IxmODpY)
+- [ ] [ELB - Elastic Load Balancer](https://youtu.be/QTTn-RaVZn4)
+- [ ] [S3 - Simple Storage Service](https://youtu.be/9vK7fwAhVtA)
+- [ ] [ECS/Fargate - Elastic Container Service](https://youtu.be/kE9crVneLUk)
+- [ ] EKS
+- [ ] [RDS - Relation Database Service](https://youtu.be/3WdoBWdkEBA)
+- [ ] Aurora
+- [ ] [Route 53](https://youtu.be/csXEbgwH7Vs)
+- [ ] [DynamoDB](https://youtu.be/7U8hEV_1uLM)
+- [ ] [AMI - Amazon Machine Image](https://youtu.be/GW87ZIK9fJw)
+- [ ] [Cloud Formation](https://youtu.be/JmjXWKO7hWg)
+- [ ] [Terraform](https://youtu.be/lo0M1FCgC-I)
+- [ ] [Lambda](https://youtu.be/NWzfgAw_DYA)
+- [ ] API Gateway
+- [ ] SQS / SNS
+- [ ] CloudWatch
+- [ ] CloudTrail
+- [ ] Auto Scaling
+- [ ] Security Groups & NACLs
+- [ ] KMS
+- [ ] Secrets Manager
+
+# Azure Topics
+- [ ] Microsoft Entra ID (identity, RBAC, managed identities)
+- [ ] Azure Resource Manager (resource groups, subscriptions, management groups)
+- [ ] Virtual Network (VNet, subnets, NSGs, peering)
+- [ ] Virtual Machines
+- [ ] Managed Disks
+- [ ] Virtual Machine Scale Sets
+- [ ] Azure Load Balancer & Application Gateway
+- [ ] Blob Storage
+- [ ] Azure Files
+- [ ] Azure Kubernetes Service (AKS)
+- [ ] Azure Container Apps / Azure Container Instances
+- [ ] App Service
+- [ ] Azure Functions
+- [ ] Azure SQL Database
+- [ ] Cosmos DB
+- [ ] Azure DNS
+- [ ] Azure Key Vault
+- [ ] Azure Monitor & Log Analytics
+- [ ] Bicep / ARM templates
+- [ ] Terraform on Azure
+
+# GCP Topics
+- [ ] Cloud IAM (roles, service accounts, workload identity)
+- [ ] Resource hierarchy (organization, folders, projects)
+- [ ] VPC networks (subnets, firewall rules, peering, Shared VPC)
+- [ ] Compute Engine
+- [ ] Persistent Disk & Filestore
+- [ ] Managed Instance Groups & autoscaling
+- [ ] Cloud Load Balancing
+- [ ] Cloud Storage
+- [ ] Google Kubernetes Engine (GKE)
+- [ ] Cloud Run
+- [ ] Cloud Functions
+- [ ] Cloud SQL
+- [ ] Cloud Spanner
+- [ ] Firestore / Bigtable
+- [ ] Cloud DNS
+- [ ] Secret Manager & Cloud KMS
+- [ ] Cloud Monitoring & Cloud Logging
+- [ ] Pub/Sub
+- [ ] Deployment Manager / Terraform on GCP
+
 ## AWS CLI Configuration - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#configure-precedence
 
 ```bash
