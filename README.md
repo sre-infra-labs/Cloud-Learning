@@ -5,7 +5,7 @@ In this repo, I share my learning regarding cloud providers
 - [ ] [IAM - Identity & Access Management](https://youtu.be/CH1EhkBzkyo)
 - [ ] [VPC - Virtual Private Cloud](https://youtu.be/ZMJV5AIfVBE)
 - [ ] [EC2 - Elastic Compute Cloud](https://youtu.be/Ens8asZLomk)
-- [ ] [EBS - Elastic Block Storage](https://youtu.be/zz53IxmODpY)
+- [x] [EBS - Elastic Block Storage](https://youtu.be/zz53IxmODpY)
 - [ ] [ELB - Elastic Load Balancer](https://youtu.be/QTTn-RaVZn4)
 - [ ] [S3 - Simple Storage Service](https://youtu.be/9vK7fwAhVtA)
 - [ ] [ECS/Fargate - Elastic Container Service](https://youtu.be/kE9crVneLUk)
@@ -18,6 +18,8 @@ In this repo, I share my learning regarding cloud providers
 - [ ] [Cloud Formation](https://youtu.be/JmjXWKO7hWg)
 - [ ] [Terraform](https://youtu.be/lo0M1FCgC-I)
 - [ ] [Lambda](https://youtu.be/NWzfgAw_DYA)
+- [ ] [DMS - Database Migration Service]()
+- [ ] [Global Databases]()
 - [ ] API Gateway
 - [ ] SQS / SNS
 - [ ] CloudWatch
@@ -26,6 +28,8 @@ In this repo, I share my learning regarding cloud providers
 - [ ] Security Groups & NACLs
 - [ ] KMS
 - [ ] Secrets Manager
+- [ ] [PostgreSQL Major Version Upgrade - Blue/Green Deployment](https://youtu.be/k3dzrtzC37Q)
+- [ ] [PostgreSQL Major Version Upgrade - In Place](https://youtu.be/uihiTuMiTZY)
 
 # Azure Topics
 - [ ] Microsoft Entra ID (identity, RBAC, managed identities)
@@ -69,6 +73,17 @@ In this repo, I share my learning regarding cloud providers
 - [ ] Cloud Monitoring & Cloud Logging
 - [ ] Pub/Sub
 - [ ] Deployment Manager / Terraform on GCP
+
+# Miscellaneous Topics
+- [ ] [Kubernetes CI/CD: Build a Pipeline \(ArgoCD + Github Actions\)](https://youtu.be/GlhK7mz5IJo)
+- [ ] [Redis Crash Course](https://youtu.be/Vx2zPMPvmug)
+- [ ] [System Design](https://youtu.be/soTfFFIQQ8U)
+- [ ] [Stream your PostgreSQL changes into Kafka with Debezium](https://youtu.be/YZRHqRznO-o)
+- [ ] Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS, TLS, subnetting, NAT, load balancing)
+- [ ] Git & GitOps workflows (branching, pull requests, code review)
+- [ ] Kubernetes fundamentals (pods, deployments, services, ingress, ConfigMaps, Secrets, Helm)
+- [ ] [AI-Assisted Coding Tutorial – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI](https://youtu.be/wlpBCazAY9Q)
+- [ ] [How to automate code reviews and testing with GitHub Copilot](https://youtu.be/HDEGFNAUkX8)
 
 ## AWS CLI Configuration - https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#configure-precedence
 
