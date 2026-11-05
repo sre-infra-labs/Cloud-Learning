@@ -1,8 +1,8 @@
 #!/bin/bash
-sudo yum update -y
+sudo dnf update -y
 
 # Install Apache web server (httpd)
-sudo yum install -y httpd
+sudo dnf install -y httpd
 sudo systemctl start httpd
 sudo systemctl enable httpd
 
