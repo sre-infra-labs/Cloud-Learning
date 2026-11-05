@@ -41,10 +41,10 @@ sudo -u postgres psql -c "CREATE ROLE \"ec2-user\" WITH SUPERUSER LOGIN PASSWORD
 systemctl restart postgresql
 
 # 9. Direct postgresql access from the EC2 instance (localhost)
-  # ssh -t -i ~/.ssh/mumbai-key.pem ec2-user@10.0.0.111 psql -d postgres
+  # ssh -t -i ~/.ssh/aws-mumbai-key.pem ec2-user@10.0.0.111 psql -d postgres
 
 # 9. Access from local laptop using SSH tunneling (Local Port Forwarding)
-  # ssh -i ~/.ssh/mumbai-key.pem -L 5433:localhost:5432 ec2-user@10.0.0.111
+  # ssh -i ~/.ssh/aws-mumbai-key.pem -L 5433:localhost:5432 ec2-user@10.0.0.111
   # echo PGPASSWORD='YourStrongPasswordHere' psql -h localhost -p 5433 -U "ec2-user" -d postgres
   # pgrep -f '5433:localhost:5432' | xargs kill -9
   # pkill -f '5433:localhost:5432'
