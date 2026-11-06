@@ -6,7 +6,7 @@ In this repo, I share my learning regarding cloud providers
 - [x] [VPC - Virtual Private Cloud](https://youtu.be/ZMJV5AIfVBE)
 - [x] [EC2 - Elastic Compute Cloud](https://youtu.be/Ens8asZLomk)
 - [x] [EBS - Elastic Block Storage](https://youtu.be/zz53IxmODpY)
-- [ ] [ELB - Elastic Load Balancer](https://youtu.be/QTTn-RaVZn4)
+- [x] [ELB - Elastic Load Balancer](https://youtu.be/QTTn-RaVZn4)
 - [ ] [S3 - Simple Storage Service](https://youtu.be/9vK7fwAhVtA)
 - [ ] [ECS/Fargate - Elastic Container Service](https://youtu.be/kE9crVneLUk)
 - [ ] EKS
@@ -53,7 +53,7 @@ In this repo, I share my learning regarding cloud providers
 - [ ] Bicep / ARM templates
 - [ ] Terraform on Azure
 
-# GCP Topics
+# [GCP Topics](https://youtu.be/jpno8FSqpc8)
 - [ ] Cloud IAM (roles, service accounts, workload identity)
 - [ ] Resource hierarchy (organization, folders, projects)
 - [ ] VPC networks (subnets, firewall rules, peering, Shared VPC)
