@@ -7,29 +7,29 @@ In this repo, I share my learning regarding cloud providers
 - [x] [EC2 - Elastic Compute Cloud](https://youtu.be/Ens8asZLomk)
 - [x] [EBS - Elastic Block Storage](https://youtu.be/zz53IxmODpY)
 - [x] [ELB - Elastic Load Balancer](https://youtu.be/QTTn-RaVZn4)
-- [ ] [S3 - Simple Storage Service](https://youtu.be/9vK7fwAhVtA)
-- [ ] [ECS/Fargate - Elastic Container Service](https://youtu.be/kE9crVneLUk)
-- [ ] EKS
+- [x] [S3 - Simple Storage Service](https://youtu.be/9vK7fwAhVtA)
+- [x] [AMI - Amazon Machine Image](https://youtu.be/GW87ZIK9fJw)
+- [x] Auto Scaling
+- [x] [Lambda](https://youtu.be/NWzfgAw_DYA)
+- [x] [ECS/Fargate - Elastic Container Service](https://youtu.be/kE9crVneLUk)
+- [ ] [EKS](https://www.youtube.com/watch?v=CukYk43agA4)
 - [ ] [RDS - Relation Database Service](https://youtu.be/3WdoBWdkEBA)
 - [ ] Aurora
 - [ ] [Route 53](https://youtu.be/csXEbgwH7Vs)
 - [ ] [DynamoDB](https://youtu.be/7U8hEV_1uLM)
-- [ ] [AMI - Amazon Machine Image](https://youtu.be/GW87ZIK9fJw)
 - [ ] [Cloud Formation](https://youtu.be/JmjXWKO7hWg)
 - [ ] [Terraform](https://youtu.be/lo0M1FCgC-I)
-- [ ] [Lambda](https://youtu.be/NWzfgAw_DYA)
 - [ ] [DMS - Database Migration Service]()
 - [ ] [Global Databases]()
 - [ ] API Gateway
 - [ ] SQS / SNS
-- [ ] CloudWatch
+- [x] CloudWatch
 - [ ] CloudTrail
-- [ ] Auto Scaling
 - [ ] Security Groups & NACLs
 - [ ] KMS
 - [ ] Secrets Manager
-- [ ] [PostgreSQL Major Version Upgrade - Blue/Green Deployment](https://youtu.be/k3dzrtzC37Q)
-- [ ] [PostgreSQL Major Version Upgrade - In Place](https://youtu.be/uihiTuMiTZY)
+- [x] [PostgreSQL Major Version Upgrade - Blue/Green Deployment](https://youtu.be/k3dzrtzC37Q)
+- [x] [PostgreSQL Major Version Upgrade - In Place](https://youtu.be/uihiTuMiTZY)
 
 # Azure Topics
 - [ ] Microsoft Entra ID (identity, RBAC, managed identities)
@@ -53,7 +53,11 @@ In this repo, I share my learning regarding cloud providers
 - [ ] Bicep / ARM templates
 - [ ] Terraform on Azure
 
-# [GCP Topics](https://youtu.be/jpno8FSqpc8)
+# GCP Topics
+
+- [Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
+- [Professional Cloud Architect](https://youtu.be/u43gJJrVa1I)
+
 - [ ] Cloud IAM (roles, service accounts, workload identity)
 - [ ] Resource hierarchy (organization, folders, projects)
 - [ ] VPC networks (subnets, firewall rules, peering, Shared VPC)
@@ -76,7 +80,6 @@ In this repo, I share my learning regarding cloud providers
 
 # Miscellaneous Topics
 - [ ] [Kubernetes CI/CD: Build a Pipeline \(ArgoCD + Github Actions\)](https://youtu.be/GlhK7mz5IJo)
-- [ ] [Redis Crash Course](https://youtu.be/Vx2zPMPvmug)
 - [ ] [System Design](https://youtu.be/soTfFFIQQ8U)
 - [ ] [Stream your PostgreSQL changes into Kafka with Debezium](https://youtu.be/YZRHqRznO-o)
 - [ ] Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS, TLS, subnetting, NAT, load balancing)
