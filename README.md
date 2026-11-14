@@ -30,6 +30,7 @@ In this repo, I share my learning regarding cloud providers
 - [ ] Secrets Manager
 - [x] [PostgreSQL Major Version Upgrade - Blue/Green Deployment](https://youtu.be/k3dzrtzC37Q)
 - [x] [PostgreSQL Major Version Upgrade - In Place](https://youtu.be/uihiTuMiTZY)
+- [ ] [Kubernetes](https://youtu.be/rBeyHDKLVqM)
 
 # Azure Topics
 - [ ] Microsoft Entra ID (identity, RBAC, managed identities)
